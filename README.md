@@ -14,7 +14,11 @@ One unique feature of Micrograd is that its DAG only operates over scalar values
 The aim of Nanograd is to provide a lightweight and easy-to-use auto-differentiation module for Python that allows for the efficient training of deep neural networks.
 
 
-WORK IS GOING ON IN THIS REPO !! Please visit after a few days 
+<h2> OUTPUT </h2>
+
+<img width="1118" alt="Screenshot 2023-03-14 at 9 19 02 AM" src="https://user-images.githubusercontent.com/84071291/224888552-28b8cf33-153c-405d-8af7-bc5f1a360bf8.png">
+
+
 
 
 
