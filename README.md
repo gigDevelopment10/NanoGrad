@@ -21,13 +21,6 @@ The aim of Nanograd is to provide a lightweight and easy-to-use auto-differentia
 ```mermaid
 graph TD
 
-
-style A, J fill:#f2d6c3,stroke:#e1a595,stroke-width:3px;
-style B, C, G fill:#f9eed6,stroke:#e1c699,stroke-width:3px;
-style D, E, H fill:#d6f2c2,stroke:#a5e1a5,stroke-width:3px;
-style F, I fill:#d6d6d6,stroke:#a5a5a5,stroke-width:3px;
-style K fill:#d6f2f2,stroke:#a5e1e1,stroke-width:3px;
-
 A[Data Collection] --> B[Data Cleaning]
 B --> C[Feature Engineering]
 C --> D[Model Selection]
