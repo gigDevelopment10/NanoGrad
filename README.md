@@ -18,6 +18,15 @@ The aim of Nanograd is to provide a lightweight and easy-to-use auto-differentia
 
 <img width="1118" alt="Screenshot 2023-03-14 at 9 19 02 AM" src="https://user-images.githubusercontent.com/84071291/224888552-28b8cf33-153c-405d-8af7-bc5f1a360bf8.png">
 
+```mermaid
+graph LR
+A[Data preparation] --> B[Feature extraction]
+B --> C[Model selection and training]
+C --> D[Model evaluation]
+D --> E[Prediction and interpretation]
+
+```
+
 
 
 
